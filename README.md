@@ -13,7 +13,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏪 site created from Shopify
+### 🏪 Online store created from Shopify
 
 Website: https://neximart.co/
 
