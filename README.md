@@ -15,7 +15,6 @@
 
 ### 🏪 Online store created from Shopify
 
-Website: <a href="https://neximart.co/" alt="Online Store" target="_blank">🛒</a> 
+Website: <a href="https://neximart.co/" alt="Online Store" target="_blank">Online Store Here</a>
 
----
 [![](https://visitcount.itsvg.in/api?id=MparrS&icon=9&color=13)](https://visitcount.itsvg.in)
