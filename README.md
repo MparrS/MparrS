@@ -2,7 +2,7 @@
 🔭 I’m currently working on upgrading my technology skills<br>🌱 I’m currently learning Angular.js<br>💬 Ask me about everything you want<br>⚡ Fun fact {JavaScript is the most used language}
 
 
-## 🌐 Socials:
+## 🌐 Socials Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mijail-serrano-02bbb82b1/) 
 
 # 💻 Tech Stack:
