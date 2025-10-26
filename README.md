@@ -4,12 +4,6 @@
 
 I’m a software developer focused on building clean, scalable, and efficient web solutions. I love exploring modern technologies and continuously improving my skills to create impactful digital experiences.  
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MparrS&theme=onedark&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me  
@@ -29,9 +23,6 @@ I’m a software developer focused on building clean, scalable, and efficient we
   </a>
   <a href="https://www.linkedin.com/in/mijail-serrano-02bbb82b1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" />
-  </a>
-  <a href="mailto:mserranoparra35@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" />
   </a>
 </p>
 
@@ -63,6 +54,3 @@ I’m a software developer focused on building clean, scalable, and efficient we
 > “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
 
 ---
-
-📫 **Reach me at:**  
-**mserranoparra35@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mijail-serrano-02bbb82b1/) | [GitHub](https://github.com/MparrS)
