@@ -52,5 +52,3 @@ I’m a software developer focused on building clean, scalable, and efficient we
 ### ✨ Quote  
 
 > “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
-
----
